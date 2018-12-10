@@ -1,0 +1,77 @@
+body {
+background: #E0F1FF;
+}
+
+.container-fluid {
+margin-top:75px;
+}
+
+.container {
+max-width:400px;
+border-radius: 30px;
+background: white;
+margin-bottom:75px;
+}
+
+h1 {
+font-size:2rem;
+color:#A0D4FF;
+}
+
+hr {
+border : solid #A0D4FF 2px;
+width: 50px;
+}
+
+.navbar {
+background:#85C7FE !important;
+}
+
+.navbar-brand{
+color:white !important;
+}
+
+#temperature {
+font-size:4.5rem;
+background: #A0D4FF;
+width:200px;
+height:200px;
+margin:auto;
+border-radius:100px;
+padding-top:45px;
+color:white;
+}
+
+#description {
+color:#A0D4FF;
+}
+
+#nom_ville{
+font-size: 2rem;
+color:#85C7FE;
+}
+
+#maximina {
+color:#A0D4FF;
+}
+
+.hidden {
+display:none;
+}
+
+.form-group {
+max-width:400px;
+margin: auto;
+margin-bottom:20px;
+}
+
+.btn-primary{
+background: #85C7FE;
+border:none; 
+}
+
+.btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active{
+background: #85C7FE;
+border:none; 
+color:white;
+}
